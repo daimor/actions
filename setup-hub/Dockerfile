@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM ubuntu:18.04
 
 LABEL "com.github.actions.name"="github-hub"
 LABEL "com.github.actions.description"="hub tool for GitHub"
